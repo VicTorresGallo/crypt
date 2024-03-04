@@ -18,6 +18,7 @@
   "homepage": "https://github.com/VicTorresGallo/crypt#readme",
   "dependencies": {
     "bcrypt": "^5.1.1",
+    "jwt-simple": "^0.5.6",
     "moment": "^2.30.1"
   }
 }
