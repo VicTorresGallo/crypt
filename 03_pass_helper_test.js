@@ -11,7 +11,7 @@ const usuario = {
     displayName: 'Vtorres',
     password: miPass,
     signupDate: moment().unix(),
-lastLogin: moment().unix()
+    lastLogin: moment().unix()
 }
 console.log(usuario);
 
